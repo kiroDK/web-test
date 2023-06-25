@@ -369,7 +369,7 @@ img {
 
 .img-responsive {
   
-  display: inline;
+  display: inline-block;
   max-width: 100%;
   height: auto;
 }
